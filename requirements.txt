@@ -1,0 +1,5 @@
+ultralytics
+numpy
+cvzone
+opencv-python
+opencv-contrib-python
